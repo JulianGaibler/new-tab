@@ -88,7 +88,6 @@ body.dark
     #app
         background #000000
         .time
-            margin-right 1.5rem
             -webkit-text-stroke-color #060606
             text-shadow unset
 
